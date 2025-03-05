@@ -3,7 +3,9 @@ As part of my job as a pentester, I created a tool to automate the scan of my co
 
 # Installation
 
-## 1. To get started, clone this repository, open your terminal and run the following command:
+## 1. clone the repository 
+
+To get started, open your terminal and run the following command:
 
 ```bash
 git clone https://github.com/Jeremiznoo/AutoNmapScan/
