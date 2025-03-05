@@ -1,7 +1,7 @@
 # AutoNmapScan
-As part of my job as a pentester, I created a tool to automate the scan of my company's public IP addresses. This tool scans a list of IP addresses along with their neighboring IPs (the previous and next IPs in the sequence) for vulnerabilities and open ports using Nmap, saving results with timestamps for easy tracking.
+As part of my job as a pentester, I created a tool to automate the scan of my company's public IP addresses. This tool scans a list of IP addresses along with their neighboring IPs (the previous and next IPs in the sequence) for vulnerabilities and open ports using Nmap. The result is save with date & time of the scan.
 
-# Installation
+# Installation
 
 ## 1.To get started, clone this repository, open your terminal and run the following command:
 
