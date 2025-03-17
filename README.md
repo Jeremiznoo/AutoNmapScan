@@ -20,8 +20,8 @@ cd AutoNmapScan/
 ## 3. Make the script executable and execute the script
 
 ```bash
-chmod +x autonmapscan.sh
-./autonmapscan.sh
+chmod +x script.sh
+./script.sh
 ```
 # Usage
 
